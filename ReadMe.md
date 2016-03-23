@@ -1,2 +1,5 @@
-# Projects
-Miscellaneous projects I have worked on over the years
+# Description
+This is a repository for miscellaneous projects I have worked on over the years
+
+# Usage
+If you use/copy code in this repository, please cite as "Code retrieved from Andrew S. Freedman"
